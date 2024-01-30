@@ -46,3 +46,9 @@ div {
 header {
     width: 300px;
 }
+
+.caja {
+    width: 100%;
+    height: 20vh;
+    background-color: #000;
+}
