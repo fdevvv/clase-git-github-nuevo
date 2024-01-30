@@ -38,3 +38,7 @@ ul {
     width: 100%;
     gap: 3rem;
 }
+
+div {
+    width: 500px;
+}
