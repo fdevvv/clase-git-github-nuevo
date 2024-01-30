@@ -19,4 +19,22 @@ ul,ol {
 a {
     text-decoration: none;
     color: #000;
+    font-size: 2rem;
+}
+
+
+p {
+    font-size: 2rem;
+}
+
+h1 {
+    background-color: red;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 3rem;
 }
